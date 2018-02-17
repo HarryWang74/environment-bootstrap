@@ -1,0 +1,22 @@
+{
+  "name": "environment-bootstrap",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HarryWang74/environment-bootstrap.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HarryWang74/environment-bootstrap/issues"
+  },
+  "homepage": "https://github.com/HarryWang74/environment-bootstrap#readme",
+  "devDependencies": {
+    "lite-server": "^2.3.0"
+  }
+}
